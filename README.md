@@ -7,3 +7,4 @@
     FFT
     ICA and FASTICA
     High pass filters and low pass filters
+    Sparse optimization
